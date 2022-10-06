@@ -6,7 +6,7 @@ Android developer and ML Enthusiast
 
 I have been coding for the past four years. I started out with python and eventually got in to Android development. I have made projects with databases, ML models and so on. I have won in few hackathons. I also conducted a workshop where I taught Android development to 100+ people.
 
-* 🌍  I'm based in Cheenai
+* 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [Linktree](http://inktr.ee/aadhithya.d)
 * ✉️  You can contact me at [aadhithyasan024@gmail.com](mailto:aadhithyasan024@gmail.com)
 * 🧠  I'm learning Flutter
