@@ -40,8 +40,9 @@ I have been coding for the past four years. I started out with python and eventu
 <b>My GitHub Stats</b>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Aadhithya-D&theme=midnight-purple&show_icons=true&count_private=true" width="48%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-D&theme=midnight-purple" width="48%">
+    <a href="http://www.github.com/Aadhithya-D"><img src="https://github-readme-stats.vercel.app/api?username=Aadhithya-D&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aadhithya-D's GitHub stats" /></a>
+<a href="http://www.github.com/Aadhithya-D"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-D&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Aadhithya-D" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhithya-D&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     <a href="https://github.com/Aadhithya-D" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhithya-D&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
