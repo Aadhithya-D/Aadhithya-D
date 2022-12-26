@@ -42,6 +42,7 @@ I have been coding for the past four years. I started out with python and eventu
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Aadhithya-D&theme=midnight-purple&show_icons=true&count_private=true" width="48%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-D&theme=midnight-purple" width="48%">
+    <a href="https://github.com/Aadhithya-D" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhithya-D&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 ### Socials
