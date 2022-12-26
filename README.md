@@ -37,7 +37,7 @@ I have been coding for the past four years. I started out with python and eventu
 
 ### Badges
 
-<h2 align="left">Stats</h2>
+<b>My GitHub Stats</b>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Aadhithya-D&theme=midnight-purple&show_icons=true&count_private=true" width="48%">
