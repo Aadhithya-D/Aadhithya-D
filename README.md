@@ -4,7 +4,7 @@ Hi 👋 My name is Aadhithya D
 Android developer and ML Enthusiast
 -----------------------------------
 
-I have been coding for the past four years. I started out with python and eventually got in to Android development. I have made projects with databases, ML models and so on. I have won in few hackathons. I also conducted a workshop where I taught Android development to 100+ people.
+I have been coding for the past four years. I started out with python and eventually got into Android development. I have done projects with databases, ML models and so on. I have won a few hackathons. I also conducted a workshop where I taught Android development to 100+ people.
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [Aadhithya D](http://linktr.ee/aadhithya.d)
