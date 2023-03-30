@@ -1,7 +1,7 @@
 Hi 👋 My name is Aadhithya D
 ============================
 
-Android developer and ML Enthusiast
+App developer and ML Enthusiast
 -----------------------------------
 
 I’m a passionate coder with intermediate experience in Python, Android development, and Flutter. I have built projects using databases and ML models and won several hackathons. I also love teaching and sharing my skills with others. I once conducted a workshop on Android development for over 100 people.
