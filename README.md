@@ -8,7 +8,7 @@ I’m a passionate coder with intermediate experience in Python, Android develop
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [Aadhithya D](http://linktr.ee/aadhithya.d)
-* ✉️  You can contact me at [aadhithyasan024@gmail.com](mailto:aadhithyasan024@gmail.com)
+* ✉️  You can contact me at [aadhithya.d2003@gmail.com](mailto:aadhithya.d2003@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
 
