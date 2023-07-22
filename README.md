@@ -11,6 +11,7 @@ I’m a passionate coder with intermediate experience in Python, Android develop
 * ✉️  You can contact me at [aadhithya.d2003@gmail.com](mailto:aadhithya.d2003@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
+* 📝  Check out my authored paper on Native Android App Development: [https://docs.ieeecsvitc.com/docs/android-dev/](https://docs.ieeecsvitc.com/docs/android-dev/)
 
 ### Skills
 
