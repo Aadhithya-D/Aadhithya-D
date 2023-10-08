@@ -13,6 +13,12 @@ I’m a passionate coder with intermediate experience in Python, Android develop
 * 🤝  I'm open to collaborating on interesting projects
 * 📝  Check out my authored paper on Native Android App Development: [https://docs.ieeecsvitc.com/docs/android-dev/](https://docs.ieeecsvitc.com/docs/android-dev/)
 
+### Experience
+
+* Software Engineer Intern - Ford Motor Company (Aug 2023 - Oct 2023)
+* R&D Intern - FLSmidth (Aug 2023 - Nov 2023)
+* SDE Intern - Bhai.AR (Feb 2023 - Mar 2023)
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,mysql,gcp,firebase,supabase,swift,django,docker,nodejs,express,postgres,flask,git,github,linux,arduino,c,cpp,py,js,html,css,tensorflow,unity,vscode,sqlite)](https://linktr.ee/aadhithya.d)
