@@ -21,7 +21,7 @@ I’m a passionate coder with professional experience in Android development, iO
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,mysql,gcp,firebase,supabase,swift,django,docker,spring,postman,postgres,flask,git,github,linux,arduino,c,cpp,py,js,html,css,tensorflow,unity,vscode,sqlite)](https://linktr.ee/aadhithya.d)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,dart,mysql,gcp,firebase,supabase,django,docker,spring,postman,postgres,mongodb,flask,git,github,linux,arduino,c,cpp,py,js,pytorch,tensorflow,unity,vscode,sqlite,selenium)](https://linktr.ee/aadhithya.d)
 
 ### Badges
 
