@@ -4,7 +4,7 @@ Hi 👋 My name is Aadhithya D
 App developer and ML Enthusiast
 -----------------------------------
 
-I’m a passionate coder with professional experience in Android development, iOS app development, Flutter, Google Cloud Platform, and Python. I have built projects using databases and ML models and won several hackathons. I also love teaching and sharing my skills with others. I once conducted a workshop on Android development for over 100 people.
+I’m a passionate coder with professional experience in Android development, iOS app development, Flutter, Google Cloud Platform, Spring Boot, and Python. I have built projects using databases and ML models and won several hackathons. I also love teaching and sharing my skills with others. I once conducted a workshop on Android development for over 100 people.
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [Aadhithya D](http://linktr.ee/aadhithya.d)
