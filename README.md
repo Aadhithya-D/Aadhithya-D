@@ -13,12 +13,10 @@ I’m a passionate coder with professional experience in Android development, iO
 * 🤝  I'm open to collaborating on interesting projects
 * 📝  Check out my authored paper on Native Android App Development: [https://docs.ieeecsvitc.com/docs/android-dev/](https://docs.ieeecsvitc.com/docs/android-dev/)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Aadhithya-D&label=Profile%20views&color=0e75b6&style=flat" alt="Aadhithya-D" /> </p>
-
 ### Experience
 
-* Software Engineer Intern - [Ford Motor Company](https://www.ford.com/) (Aug 2023 - Oct 2023)
 * R&D Intern - [FLSmidth](https://www.flsmidth.com/) (Aug 2023 - Nov 2023)
+* Software Engineer Intern - [Ford Motor Company](https://www.ford.com/) (Aug 2023 - Oct 2023)
 * SDE Intern - [Bhai.AR](https://www.linkedin.com/company/bhai/?originalSubdomain=in) (Feb 2023 - Mar 2023)
 
 ### Skills
