@@ -12,7 +12,6 @@ I’m a passionate coder with professional experience in Android development, iO
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
 * 📝  Check out my blog : [https://medium.com/@aadhithyad](https://medium.com/@aadhithyad)
-*
 
 ### Skills
 
