@@ -29,4 +29,10 @@ I’m a passionate coder with professional experience in Android development, iO
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Aadhithya-D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/aadhithya.d_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aadhithya-d-983167218" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aadhithya_D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://medium.com/@aadhithyad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left">  
+  <a href="https://www.linkedin.com/in/aadhithya-d-983167218" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/Aadhithya_D" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" width="33" height="33" /></a>
+  <a href="https://medium.com/@aadhithyad" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/J4RbI3C.png" width="33" height="33" /></a>
+  <a href="https://www.github.com/Aadhithya-D" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/hZ7Vgh4.png" width="33" height="33" /></a> 
+  <a href="http://www.instagram.com/aadhithya.d_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  </p>
