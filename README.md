@@ -37,7 +37,7 @@ I’m a passionate coder with professional experience in Android development, iO
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/aadhithya-d" target="_blank" rel="noreferrer"><img src="https://imgur.com/4qoRLOK.png" width="33" height="33" class="social"/></a>
-  <a href="https://www.twitter.com/Aadhithya_D" target="_blank" rel="noreferrer"><img src="https://imgur.com/VfUi0JQ.png" width="33" height="33" /></a>
+  <a href="https://www.twitter.com/Aadhithya_D2003" target="_blank" rel="noreferrer"><img src="https://imgur.com/VfUi0JQ.png" width="33" height="33" /></a>
   <a href="https://medium.com/@aadhithyad" target="_blank" rel="noreferrer"><img src="https://imgur.com/yJYfleq.png" width="33" height="33" /></a>
   <a href="https://www.github.com/Aadhithya-D" target="_blank" rel="noreferrer"><img src="https://imgur.com/J1lZbQl.png" width="33" height="33" /></a> 
   <a href="http://www.instagram.com/aadhithya.d_" target="_blank" rel="noreferrer"><img src="https://imgur.com/95LDQE0.png" width="33" height="33" /></a> 
