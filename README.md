@@ -16,8 +16,26 @@ I’m a passionate coder with professional experience in Android development, iO
 ### Experience
 
 * R&D Intern - [FLSmidth](https://www.flsmidth.com/) (Aug 2023 - Nov 2023)
+  * Automated wear and tear analysis report generation for mining mills, reducing the processing time by 90%.
+  * Led the development of an iOS mobile app with SwiftUI for 3D scanning of mining mills, utilizing LiDAR data and Photogrammetry, and integrating ObjectCapture for precision, seamlessly connected to the cloud.
+  * Engineered a desktop app with Flutter for streamlined cloud storage management and automated report generation.
+  * Initiated the integration of machine learning models to automate report generation, streamlining data analysis processes.
+  * Developed algorithms to achieve precise 3D object segmentation and thickness analysis, significantly enhancing the depth and accuracy of generated reports.
+  * Managed cloud deployments using Google Cloud Platform (GCP) tools, such as Cloud Storage and Compute Engine.
+
 * Software Engineer Intern - [Ford Motor Company](https://www.ford.com/) (Aug 2023 - Oct 2023)
+  * Collaborated effectively with the Android team, ensuring a smooth workflow.
+  * Elevated user experience and visual appeal through UI enhancements with Jetpack Compose in Kotlin.
+  * Applied deep linking within notifications to streamline user navigation.
+  * Implemented gRPC bidirectional streaming, seamlessly integrated with Google Pub/Sub and a Spring Boot BFF (Backend for Frontend), achieving a remarkable 7x boost in broadcasting speed while ensuring robust stability.
+  * Streamlined data engineering with multiple algorithms and facilitated ML model selection for driver-selective broadcasting.
+
 * SDE Intern - [Bhai.AR](https://www.linkedin.com/company/bhai/?originalSubdomain=in) (Feb 2023 - Mar 2023)
+  * Developed two Flutter and Firebase apps: a news aggregator for the North American market and a news submission app.
+  * Implemented a custom cache management system that improved media loading performance by 80%.
+  * Enhanced app functionality with deep linking, push notifications, and other features.
+  * Created AiBlocks, a mobile app that uses generative AI models to create images from user prompts.
+  * Images can be minted as NFTs, and the app is being used by 15 different NFT projects.
 
 ### Skills
 
