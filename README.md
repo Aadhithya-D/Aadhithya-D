@@ -10,6 +10,7 @@ I’m a passionate coder with professional experience in Android development, iO
 * 🖥️  See my portfolio at [Aadhithya D](http://linktr.ee/aadhithya.d)
 * ✉️  You can contact me at [aadhithya.d2003@gmail.com](mailto:aadhithya.d2003@gmail.com)
 * 🧠  I'm learning DSA, AI and ML 
+* 🏗️  I'm currently building Recruitr AI 
 * 🤝  I'm open to collaborating on interesting projects
 * 📝  Check out my blog : [https://medium.com/@aadhithyad](https://medium.com/@aadhithyad)
 
