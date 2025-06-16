@@ -1,10 +1,10 @@
 Hi 👋 My name is Aadhithya D
 ============================
 
-App developer and ML Enthusiast
+Founder and Developer
 -----------------------------------
 
-I’m a passionate coder with professional experience in Android development, iOS app development, Flutter, Google Cloud Platform, Spring Boot, and Python. I have built projects using databases and ML models and won several hackathons. I also love teaching and sharing my skills with others. I once conducted a workshop on Android development for over 100 people.
+In 2024, I decided to commit full time to Recruitr AI, an AI-powered platform streamlining hiring for companies at scale. As a final-year computer science student at VIT Chennai with hands-on experience in diverse areas gained through internships at Ford, FLSmidth, and Bhai AR, I focus on building impactful solutions to real-world problems. Beyond my startup, I like actively sharing knowledge through workshops on AI and various other technologies. I have participated in hackathons (with multiple wins). I am driven by a belief that great engineering combines simplicity, impact, and a constant pursuit of learning, whether through startups, robotics, or education.
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [Aadhithya D](http://linktr.ee/aadhithya.d)
