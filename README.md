@@ -4,13 +4,13 @@ Hi 👋 My name is Aadhithya D
 Founder and Developer
 -----------------------------------
 
-In 2024, I decided to commit full time to Recruitr AI, an AI-powered platform streamlining hiring for companies at scale. As a final-year computer science student at VIT Chennai with hands-on experience in diverse areas gained through internships at Ford, FLSmidth, and Bhai AR, I focus on building impactful solutions to real-world problems. Beyond my startup, I like actively sharing knowledge through workshops on AI and various other technologies. I have participated in hackathons (with multiple wins). I am driven by a belief that great engineering combines simplicity, impact, and a constant pursuit of learning, whether through startups, robotics, or education.
+Founder of [Vakyam AI](https://vakyam.ai), a voice AI platform enabling human-like, multilingual conversations for the Indian market. Previously, I founded [Recruitr AI](https://recruitrai.com), where we secured international funding and onboarded paying customers globally. Computer Science graduate from VIT Chennai. Backed by internship experience at Ford and FLSmidth, multiple hackathon wins, and a focus on solving real-world problems, I chose to forgo placements to build products that push the boundaries of what's possible with AI.
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [Aadhithya D](http://linktr.ee/aadhithya.d)
+* 🖥️  See my portfolio at [Aadhithya D](https://aadhithya-d.vercel.app)
 * ✉️  You can contact me at [aadhithya.d2003@gmail.com](mailto:aadhithya.d2003@gmail.com)
-* 🧠  I'm learning DSA, AI and ML 
-* 🏗️  I'm currently building Recruitr AI 
+* 🧠  I'm learning AI and ML 
+* 🏗️  I'm currently building Vakyam AI 
 * 🤝  I'm open to collaborating on interesting projects
 * 📝  Check out my blog : [https://medium.com/@aadhithyad](https://medium.com/@aadhithyad)
 
@@ -40,16 +40,15 @@ In 2024, I decided to commit full time to Recruitr AI, an AI-powered platform st
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,dart,figma,mysql,gcp,firebase,supabase,django,docker,spring,postman,postgres,mongodb,flask,git,github,linux,c,cpp,py,js,pytorch,tensorflow,unity,sqlite,selenium)](https://linktr.ee/aadhithya.d)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,androidstudio,kotlin,java,swift,flutter,dart,mysql,gcp,azure,firebase,supabase,fastapi,django,flask,docker,spring,postgres,mongodb,git,github,linux,c,cpp,py,js,pytorch,tensorflow)](https://aadhithya-d.vercel.app)
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <p>
-<!-- <a href="http://www.github.com/Aadhithya-D"><img src="https://github-readme-stats.vercel.app/api?username=Aadhithya-D&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aadhithya-D's GitHub stats" /></a> -->
-<a href="http://www.github.com/Aadhithya-D"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-D&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/Aadhithya-D" align="left"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhithya-D&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&hide=jupyter%20notebook,cmake" alt="Top Languages" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aadhithya-D&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://github.com/Aadhithya-D" align="left"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhithya-D&langs_count=8&theme=dark&locale=en&custom_title=Top%20%Languages&layout=compact&hide=jupyter%20notebook,cmake" alt="Top Languages" /></a>
 </p>
 
 ### Socials
