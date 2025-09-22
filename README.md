@@ -7,7 +7,7 @@ Founder and Developer
 Founder of [Vakyam AI](https://vakyam.ai), a voice AI platform enabling human-like, multilingual conversations for the Indian market. Previously, I founded [Recruitr AI](https://recruitrai.com), where we secured international funding and onboarded paying customers globally. Computer Science graduate from VIT Chennai. Backed by internship experience at Ford and FLSmidth, multiple hackathon wins, and a focus on solving real-world problems, I chose to forgo placements to build products that push the boundaries of what's possible with AI.
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [Aadhithya D](https://aadhithya-d.vercel.app)
+* 🖥️  See my portfolio at [Aadhithya D](https://aadhithyad.me)
 * ✉️  You can contact me at [aadhithya.d2003@gmail.com](mailto:aadhithya.d2003@gmail.com)
 * 🧠  I'm learning AI and ML 
 * 🏗️  I'm currently building Vakyam AI 
