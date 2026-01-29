@@ -9,9 +9,7 @@ Building [Vakyam AI](https://vakyam.ai), a voice AI platform enabling human-like
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [Aadhithya D](https://aadhithyad.me)
 * ✉️  You can contact me at [aadhithya.d2003@gmail.com](mailto:aadhithya.d2003@gmail.com)
-* 🧠  I'm learning AI and ML 
 * 🏗️  I'm currently building Vakyam AI 
-* 🤝  I'm open to collaborating on interesting projects
 * 📝  Check out my blog : [https://medium.com/@aadhithyad](https://medium.com/@aadhithyad)
 
 ### Experience
