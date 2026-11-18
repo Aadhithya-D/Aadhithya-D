@@ -2,7 +2,7 @@
 
 I'm a founder and builder working on voice AI, applied machine learning, and products that solve real-world problems.
 
-I currently lead [Vakyam AI](https://vakyam.ai), where we are building natural and affordable speech technology for Indian languages. Vakyam is incubated at the [IIT Madras Incubation Cell](https://icandsr.iitm.ac.in/) and supported by the [Emergent Ventures Fellowship](https://www.mercatus.org/emergent-ventures).
+I currently lead [Vakyam AI](https://vakyam.ai), where we are building natural and affordable speech technology for Indian languages. Vakyam is incubated at the [IIT Madras Incubation Cell](https://icandsr.iitm.ac.in/) and supported by the [Emergent Ventures Fellowship](https://www.mercatus.org/emergent-ventures) ([India 13th cohort](https://marginalrevolution.com/marginalrevolution/2025/11/emergent-ventures-india-13th-cohort.html), [EV profile](https://app.evindia.live/member/582929c7-1be9-4540-ba80-9c1abfec42be)). More about me at [aadhithyad.me](https://www.aadhithyad.me).
 
 Previously, I co-founded [Recruitr AI](https://recruitrai.com), an AI hiring platform used by companies across the USA, Canada, and India.
 
